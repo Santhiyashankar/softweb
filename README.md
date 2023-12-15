@@ -87,7 +87,7 @@ home1.html
             padding-top: 20px;
         }
         .heading2{
-            color:purple;
+            color:plum;
             text-align: justify;
             font-size: 30px;
             margin-left: 30px;
@@ -121,7 +121,7 @@ home1.html
     <div class="header">
         <nav id="nav">
             <h1>
-                ARCHITECTURAL ACOUSTIC SOLUTIONS
+              DATA ANALYTICS INNOVATIONS  
             </h1>
                 <ul>
                     <li class="li1"> 
@@ -143,8 +143,8 @@ home1.html
     <input placeholder="search">
     </div>
         <div><pre class="heading2"><i><b>
-"We help architects sculpt sound out of space,
-with bespoke,acoustic solutions"<b></i></pre></div>
+"The role of data analytics in an organization is 
+to provide a greater level of specificity "<b></i></pre></div>
         <div class="edge">
             <div class="box">
             <h1 class="heading1">LOGIN HERE</h1>
@@ -236,7 +236,7 @@ products.html
             text-align: center;
         }
         .box{
-            background-color:plum;
+            background-color:white;
             cursor:pointer;
         }
         a{
@@ -248,10 +248,10 @@ products.html
             cursor:pointer;
         }
         .heading2{
-            padding-top: 100px;
+            padding-top: 50px;
             padding-bottom: 10px;
             text-align: center;
-            color:purple;
+            color:plum;
         }
       p{
             color:purple;
@@ -279,7 +279,7 @@ products.html
 <body background="webcover2.jpg">
     <div class="header">
         <nav id="nav">
-            <h1 class="heading1">ARCHITECTURAL ACOUSTIC SOLUTIONS</h1>
+            <h1 class="heading1">DATA ANALYTICS INNOVATIONS</h1>
                 <ul>
                     <li class="li1"> 
                         <a href="home1.html" target="_blank">Home  |</a>
@@ -300,19 +300,25 @@ products.html
         <br>
         <div class="product">
             <div class="box">
-               <b><img src="arktura.jpeg" ></b>
-                <h1>ARKTURA VAPOR</h1>
-<p>It is designed in califorinis and manufactured in Europe , the Arktura vapor range achieve modern expression through abstract patterns . it includes light transmitting forsted polycarbonate backer to any design to next level.</p>
-            </div>
-            <div class="box">
-                <img src="cewood.jpeg">
-                <h1>CEWOOD</h1>
-                <p>Cewood panels are the ideal choice for the enviornmentally ambitious. these inovative cementitious wood-fibre panels create calm inviting spaces,using substainable practices that drive better enviornmental outcomes.</p>
-            </div>
-            <div class="box">
-                <img src="slat.jpeg">
-                <h1>SLAT</h1>
-                <p>Decorslat offers exceptional acoustic management in concert with a free-flowing linear design that brings warmth and sophistication to any space.the wood slat pannels available in varity of thickness to suit whatever your design needs. </p>
+               <b><img src="amazon.png" ></b>
+               
+               
+               </div>
+              
+
+               <img src="excel.png">
+               
+
+               <img src="aws.png">
+
+               <img src="tableau.png">
+
+               <img src="power.png">
+
+               <img src="hadoop.png">
+
+               
+
             </div>
         </div>
     </div>
@@ -370,7 +376,7 @@ text-decoration: none;
             padding-top: 50px;
             padding-bottom: 10px;
             text-align: center;
-            color:purple;
+            color:plum;
         }
         .bottomdiv{
             background-color:plum;
@@ -405,7 +411,7 @@ text-decoration: none;
 <body background="webcover2.jpg">
     <div class="header">
         <nav id="nav">
-            <h1 class="heading1">ARCHITETURAL ACOUSTIC SOLUTIONS</h1>
+            <h1 class="heading1">DATA ANALYTICS INNOVATIONS</h1>
                 <ul>
                     <li class="li1"> 
                         <a href="home1.html" target="_blank">Home  |</a>
@@ -580,7 +586,7 @@ display:block;
 <body background="webcover2.jpg">
     <div class="header">
         <nav id="nav">
-            <h1 class="heading1">ARCHITECTURAL ACOUSTIC SOLUTIONS</h1>
+            <h1 class="heading1">DATA ANALYTICS INNOVATIONS</h1>
                 <ul>
                     <li class="li1"> 
                         <a href="home1.html" target="_blank">Home  |</a>
@@ -677,12 +683,12 @@ display:block;
 </html>
 ```
 
-## OUTPUT:
-![Alt text](<Screenshot (142).png>)
-![Alt text](<Screenshot (145).png>)
-![Alt text](<Screenshot (144).png>)
-![Alt text](<Screenshot (146).png>)
 
+## OUTPUT:
+![Alt text](<Screenshot (147).png>)
+![Alt text](<Screenshot (148).png>)
+![Alt text](<Screenshot (149).png>)
+![Alt text](<Screenshot (150).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
