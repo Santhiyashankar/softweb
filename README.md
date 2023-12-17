@@ -627,7 +627,7 @@ display:block;
                         Email :
                     </td>
                     <td>
-                        Architectacoustic@gmail.com
+                        Data analytics innovation@gmail.com
                     </td>
                 </tr>
                 <tr>
