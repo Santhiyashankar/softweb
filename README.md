@@ -391,8 +391,7 @@ text-decoration: none;
             border-radius: 50%;
             width: 190px;
             display: inline;
-            padding:3px;
-            
+            padding:3px;     
         }
         .person{
             margin:100px;
@@ -567,7 +566,6 @@ color:white;
             border-radius: 5px;
             border-style:dotted;
             border-color: plum;
-
         }
         .queries{
             margin-left:600px;
@@ -682,8 +680,6 @@ display:block;
 </body>
 </html>
 ```
-
-
 ## OUTPUT:
 ![Alt text](<Screenshot (147).png>)
 ![Alt text](<Screenshot (148).png>)
